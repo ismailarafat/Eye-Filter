@@ -4,4 +4,4 @@ I made this project for fun using python libraries opencv, mediapipe, pygame, ti
 Make sure you have installed these libraries before running the project:
 pip install numpy pandas opencv-python mediapipe pygame 
 
-The demo video is available in the repository files. ("Demo Video.mov")
+The demo video is available in the repository files. ("Demo Video.mp4")
