@@ -5,4 +5,5 @@ Make sure you have installed these libraries before running the project:
 pip install numpy pandas opencv-python mediapipe pygame 
 
 Here is a demo video - 
+<video controls src="Demo Video.mov"></video>
 
